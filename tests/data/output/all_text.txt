@@ -1,0 +1,80 @@
+(2.2)
+(C43.4)
+= Dr Smit
+AbbVie Inc. (AbbVie)
+Colorectal Cancer
+Core Risk Management Plan
+Core Risk Management Plan for
+DOSAGE AND ADMINISTRATION
+Data lock point forthis RMP: 31 December 2021
+Date of final sign off: September 2024
+Dx: metustatc melanoma
+Esophageal Cancer
+Gastric Cancer, Gastroesophageal Junction Cancer, and Esophageal Adenocarcinoma
+Hepatocellular Carcinoma (HCC)
+Humira
+INDICATIONS AND USAGE
+IV g3uks
+Information.
+KEYTRUDA is also indicated for
+Pt: Jane Doe
+RMP Annex 8.
+RMP Version Number: 16.2
+RMP version to be assessed as part of this application:
+Rationale for submitting an updated RMP:
+Reclassified Missing Information "Episodic treatment in Ps, UC and JIA" to "Episodic treatment
+Removed Long Term Safety Information in the Treatment of Children with Uveitis from Missing
+Squamous Cell Carcinoma of the Head and Neck (SCCHN)
+Start Keytruda 200 me.
+Summary of significant changes in the RMP: A summary of significant changes is included in
+This indication is approved under accelerated approval based on overall response rate and duration of
+Urothelial Carcinoma
+Version 16.2 / Data Lock Point 31 December 2021
+[OCR skipped on page(s) 1]
+a
+after undergoing radical resection of UC. (1.10)
+aobbvie Adalimumab
+carcinoma (ESCC) after prior fluoropyrimidine- and platinum-based chemotherapy. (1.13)
+clinical benefit in confirmatory trials.
+combination with cisplatin and gemcitabine. (1.10)
+disease progression on or after a platinum-based therapy. (1.9)
+esophageal adenocarcinoma whose tumors express PD-L1 (≥1) in combination with fluoropyrimidineand platinum-containing chemotherapy. (1.14)
+first-line treatment in combination with fluoropyrimidine- and platinum‑containing chemotherapy
+first-line treatment in combination with ipilimumab whose tumors express PD-L1 (≥1). (1.13)
+in UC"
+indication. (2)
+instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer (CRC) in combination
+lymphoma (cHL) that has relapsed
+mismatch repair deficient (dMMR) metastatic colorectal cancer that has progressed following
+on the same day every 3 weeks for 4 doses, then 240 mg every 2 weeks or 480 mg every 4
+or progressed after three or more
+pathologic disease, who have received neoadjuvant chemoradiotherapy (CRT). (1.13)
+patients with classical Hodgkin
+previously treated with sorafenib. (1.12)
+prior lines of therapy.
+response. Continued approval for this indication may be contingent upon verification and description of
+the treatment of adult and pediatric
+treatment in combination with ipilimumab. (1.12)
+treatment with a fluoropyrimidine, oxaliplatin, and irinotecan. (1.11)
+weeks. (2.2)
+whose tumors express PD-L1 (≥1). (1.13)
+with ipilimumab. (1.11)
+• Administer by intravenous infusion after dilution based upon recommended infusion rate for each
+• Adult and pediatric patients weighing 40 kg or greater: 1 mg/kg followed by ipilimumab 3 mg/kg
+• Adult and pediatric patients weighing 40 kg or greater: 240 mg every 2 weeks or 480 mg every 4
+• Pediatric patients weighing less than 40 kg: 3 mg/kg every 2 weeks or 6 mg/kg every 4 weeks.
+• Unresectable or metastatic melanoma
+• adjuvant treatment of adult patients with urothelial carcinoma (UC) who are at high risk of recurrence
+• adult and pediatric (12 years and older) patients with microsatellite instability-high (MSI-H) or
+• adult and pediatric (12 years and older) patients with unresectable or metastatic microsatellite
+• adult patients with advanced or metastatic gastric cancer, gastroesophageal junction cancer, and
+• adult patients with completely resected esophageal or gastroesophageal junction cancer with residual
+• adult patients with locally advanced or metastatic urothelial carcinoma who:
+• adult patients with recurrent or metastatic squamous cell carcinoma of the head and neck with
+• adult patients with unresectable advanced or metastatic esophageal squamous cell carcinoma as
+• adult patients with unresectable advanced, recurrent or metastatic esophageal squamous cell
+• adult patients with unresectable or metastatic hepatocellular carcinoma (HCC), as a first-line
+• adult patients with unresectable or metastatic urothelial carcinoma, as first-line treatment in
+• have disease progression during or following platinum-containing chemotherapy.
+• have disease progression within 12 months of neoadjuvant or adjuvant treatment with platinumcontaining chemotherapy. (1.10)
+• in combination with ipilimumab in adult patients with unresectable or metastatic HCC who have been

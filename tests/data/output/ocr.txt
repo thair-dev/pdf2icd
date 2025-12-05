@@ -1,0 +1,123 @@
+Squamous Cell Carcinoma of the Head and Neck (SCCHN)
+
+* adult patients with recurrent or metastatic squamous cell carcinoma of the head and neck with
+disease progression on or after a platinum-based therapy. (1.9)
+
+Urothelial Carcinoma
+
+* adjuvant treatment of adult patients with urothelial carcinoma (UC) who are at high risk of recurrence
+after undergoing radical resection of UC. (1.10)
+
+¢ adult patients wth unresectable or metastatic urothelial carcinoma, as first-line treatment in
+combination with cisplatin and gemcitabine. (1.10)
+
+¢ adult patients with locally advanced or metastatic urothelial carcinoma who:
+
+¢ have disease progression during or following platinum-containing chemotherapy.
+¢ have disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-
+containing chemotherapy. (1.10)
+
+Colorectal Cancer
+
+* adult and pediatric (12 years and older) patients with unresectable or metastatic microsatellite
+instability-high (MSI-H) or mismatch repair deficient (€MMR) colorectal cancer (CRC) in combination
+with ipilimumab. (1.11)
+
+¢ adult and pediatric (12 years and older) patients with microsatellite instability-high (MSI-H) or
+mismatch repair deficient (AMMR) metastatic colorectal cancer that has progressed following
+treatment wih a fluoropyrimidine, oxaliplatin, and irinotecan. (1.11)
+
+Hepatocellular Carcinoma (HCC)
+
+¢ adult patients wth unresectable or metastatic hepatocellular carcinoma (HCC), as a first-line
+treatment in combination with ipilimumab. (1.12)
+
+¢ in combination with ipilimumab in adult patients with unresectable or metastatic HCC who have been
+previously treated with sorafenib. (1.12)
+
+Esophageal Cancer
+
+* adult patients with completely resected esophageal or gastroesophageal junction cancer with residual
+pathologic disease, who have received neoadjuvant chemoradiotherapy (CRT). (1.13)
+
+¢ adult patients with unresectable advanced or metastatic esophageal squamous cell carcinoma as
+first-line treatment in combination with fluoropyrimidine- and platinum-containing chemotherapy
+whose tumors express PD-L1 (21). (1.13)
+
+¢ adult patients with unresectable advanced or metastatic esophageal squamous cell carcinoma as
+first-line treatment in combination with ipilimumab whose tumors express PD-L1 (21). (1.13)
+
+¢ adult patients with unresectable advanced, recurrent or metastatic esophageal squamous cell
+carcinoma (ESCC) after prior fluoropyrimidine- and platinum-based chemotherapy. (1.13)
+
+Gastric Cancer, Gastroesophageal Junction Cancer, and Esophageal Adenocarcinoma
+
+¢ adult patients with advanced or metastatic gastric cancer, gastroesophageal junction cancer, and
+esophageal adenocarcinoma whose tumors express PD-L1 (21) in combination with fluoropyrimidine-
+and platinum-containing chemotherapy. (1.14)
+
+@ This indication is approved under accelerated approval based on overall response rate and duration of
+response. Continued approval for this indication may be contingent upon verification and description of
+clinical benefit in confirmatory trials.
+
+rere DOSAGE AND ADMINISTRATION .--------------------------------------
+
+¢ Administer by intravenous infusion after dilution based upon recommended infusion rate for each
+indication. (2)
+¢ Unresectable or metastatic melanoma
+
+¢ Adult and pediatric patients weighing 40 kg or greater: 240 mg every 2 weeks or 480 mg every 4
+weeks. (2.2)
+
+¢ Pediatric patients weighing less than 40 kg: 3 mg/kg every 2 weeks or 6 mg/kg every 4 weeks.
+(2.2)
+
+¢ Adult and pediatric patients weighing 40 kg or greater: 1 mg/kg followed by ipilimumab 3 mg/kg
+on the same day every 3 weeks for 4 doses, then 240 mg every 2 weeks or 480 mq every 4
+
+aobbvie Adalimumab
+
+Core Risk Management Plan
+Version 16.2 / Data Lock Point 31 December 2021
+
+Core Risk Management Plan for
+Humira
+
+AbbVie Inc. (AbbVie)
+
+RMP version to be assessed as part of this application:
+RMP Version Number: 16.2
+
+Data lock point forthis RMP: 31 December 2021
+
+Date of final sign off: September 2024
+
+Rationale for submitting an updated RMP:
+
+Removed Long Term Safety Information in the Treatment of Children with Uveitis from Missing
+Information.
+
+Reclassified Missing Information "Episodic treatment in Ps, UC and JIA" to "Episodic treatment
+in UC"
+
+Summary of significant changes in the RMP: A summary of significant changes is included in
+RMP Annex 8.
+
+
+INDICATIONS AND USAGE
+
+KEYTRUDA is also indicated for
+the treatment of adult and pediatric
+patients with classical Hodgkin
+lymphoma (cHL) that has relapsed
+or progressed after three or more
+prior lines of therapy.
+
+Pt: Jane Doe
+Dx: metustatc melanoma
+(C43.4)
+
+Start Keytruda 200 me.
+IV g3uks
+
+= Dr Smit

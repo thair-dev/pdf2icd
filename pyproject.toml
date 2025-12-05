@@ -1,0 +1,100 @@
+[tool.poetry]
+name = "pdf2icd"
+authors = ["Thair Judeh"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: Other/Proprietary License",
+    "Natural Language :: English",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+description = "Basic PoC highlighting Python packages for scanning PDF documents related to clinical/disease research"
+keywords = ["pdf", "icd", "clinical", "disease", "research"]
+license = "All Rights Reserved – Candidate Sample"
+readme = "README.md"
+version = "0.1.0"
+
+[tool.poetry.dependencies]
+python = "^3.12,<3.14"
+en_ner_bc5cdr_md = { url = "https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_ner_bc5cdr_md-0.5.4.tar.gz" }
+lxml = "^6.0.0"
+numpy = "<2.0.0"
+rapidfuzz = "^3.13.0"
+scispacy = "^0.5.5"
+spacy = ">=3.7.0,<3.8.0"
+
+[tool.poetry.group.dev.dependencies]
+black = "^25.1.0"
+coverage = "^7.9.2"
+flake8 = "^7.3.0"
+flake8-black = "^0.3.6"
+flake8-bugbear = "^24.12.12"
+flake8-builtins = "^2.5.0"
+flake8-comprehensions = "^3.16.0"
+flake8-docstrings = "^1.7.0"
+flake8-mutable = "^1.2.0"
+isort = "^6.0.1"
+mypy = "^1.17.0"
+pytest = "^8.4.1"
+pytest-cov = "^6.2.1"
+pytest-env = "^1.1.5"
+pytest-flake8 = "^1.3.0"
+pytest-html = "^4.1.1"
+pytest-isort = "^4.0.0"
+pytest-mock = "^3.14.1"
+pytest-mypy = "^1.0.1"
+pytest-xdist = "^3.8.0"
+
+[[tool.poetry.source]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+priority = "explicit"
+
+[tool.poetry.scripts]
+prepare_assets = "pdf2icd.prepare_assets:main"
+workflow = "pdf2icd.workflow:main"
+
+[tool.black]
+line-length = 120
+
+[tool.isort]
+profile = "black"
+src_paths = ["pdf2icd", "tests"]
+
+[tool.mypy]
+allow_redefinition = true
+check_untyped_defs = true
+disallow_any_unimported = true
+disallow_untyped_defs = true
+disallow_any_generics = true
+ignore_missing_imports = true
+no_implicit_optional = true
+show_error_codes = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_return_any = true
+
+[tool.pytest.ini_options]
+minversion = "8.0"
+addopts = [
+    "--basetemp=/tmp/pytest",
+    "--code-highlight=yes",
+    "--color=yes",
+    "--cov=pdf2icd",
+    "--cov-report=term",
+    "--cov-report=html:build/coverage",
+    "--doctest-modules",
+    "--flake8",
+    "--html=build/pytest.html",
+    "--isort",
+    "--mypy",
+    "--numprocesses=2",
+    "--self-contained-html",
+    "--verbose",
+]
+testpaths = ["pdf2icd", "tests"]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
